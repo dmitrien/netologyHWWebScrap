@@ -1,0 +1,25 @@
+{
+    "title": "Python разработчик (с NodeJS/Go)",
+    "link": "https://spb.hh.ru/vacancy/79736343?from=vacancy_search_list&query=python",
+    "cost": null,
+    "name_company": "Иннотех, Группа компаний",
+    "city": "Москва"
+}{
+    "title": "Junior Python разработчик",
+    "link": "https://spb.hh.ru/vacancy/82128820?from=vacancy_search_list&query=python",
+    "cost": null,
+    "name_company": "ООО Виста",
+    "city": "Санкт-Петербург, набережная Обводного Канала, 93а"
+}{
+    "title": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
+    "cost": "от 150 000 до 200 000 руб. на руки",
+    "name_company": "B.ART",
+    "city": "Москва"
+}{
+    "title": "Middle Разработчик Python (Backend)",
+    "link": "https://spb.hh.ru/vacancy/81974265?from=vacancy_search_list&query=python",
+    "cost": "от 180 000 до 240 000 руб. на руки",
+    "name_company": "ООО Корпорация ЗНАК",
+    "city": "Москва, Савёловская, Башиловская улица, 12"
+}
